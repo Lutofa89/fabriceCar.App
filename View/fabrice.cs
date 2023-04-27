@@ -8,6 +8,6 @@ namespace fabriceCar.View
 {
     internal class fabrice // tito
     {
-        public string name { }
+        public string name { } // test
     }
 }
