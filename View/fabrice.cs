@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace fabriceCar.View
 {
-    internal class fabrice // coucou
+    internal class fabrice // tito
     {
+        public string name { }
     }
 }
